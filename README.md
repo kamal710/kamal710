@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamal710&label=Profile%20views&color=0e75b6&style=flat" alt="kamal710" /> </p>
 
-- 🔭 I’m currently working on [Blue Beatz](https://discord.com/api/oauth2/authorize?client_id=849850184023670796&permissions=8589934591&scope=applications.commands%20bot)
+- My bot: [Blue Beatz](https://discord.com/api/oauth2/authorize?client_id=849850184023670796&permissions=8589934591&scope=applications.commands%20bot)
 
-- 🌱 I’m currently learning **Discord.js v13 and java**
+- [Blue Beatz](https://discord.com/api/oauth2/authorize?client_id=849850184023670796&permissions=8589934591&scope=applications.commands%20bot) is coded in  **Discord.js v13**
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/gFNHCfSz](https://discord.gg/gFNHCfSz)
+- My server: [https://discord.gg/gFNHCfSz](https://discord.gg/gFNHCfSz)
 
-- ⚡ Fun fact **I'm 14**
 
 
 <h3 align="left">Languages and Tools:</h3>
