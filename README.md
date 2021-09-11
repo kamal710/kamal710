@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamal710&label=Profile%20views&color=0e75b6&style=flat" alt="kamal710" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamal710" alt="kamal710" /></a> </p>
-
 - 🔭 I’m currently working on [Blue Beatz](https://discord.com/api/oauth2/authorize?client_id=849850184023670796&permissions=8589934591&scope=applications.commands%20bot)
 
 - 🌱 I’m currently learning **Discord.js v13 and java**
