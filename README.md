@@ -1,4 +1,5 @@
-![Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue&show_icons=true&theme=dracula)
+
+![kamal710's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamal710&show_icons=true&theme=dracula)
 
 
 
