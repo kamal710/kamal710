@@ -1,4 +1,4 @@
-<h1 align="center">Sup guys, I'm Blue Blue</h1>
+<h1 align="center">Sup guys, I'm Blue</h1>
 <h3 align="center">I'm a discord bot developer who codes in discord.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamal710&label=Profile%20views&color=0e75b6&style=flat" alt="kamal710" /> </p>
