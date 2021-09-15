@@ -7,12 +7,12 @@
 </div>
 
 <style> 
- #stats {
+ stats {
    margin-top: 30px;
    margin-left: 170px;
  }
  
- #gstats {
+ gstats {
   margin-left: 100px;
  }
 </style>
