@@ -11,9 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal710&layout=compact&theme=gotham">
   </a>
   
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=/blueOp&theme=gotham&hide_border=true">
-  </a>
+
 
 <!-- <img id="gstats" src=""> -->
 <!-- <img id="stats" src=""> -->
