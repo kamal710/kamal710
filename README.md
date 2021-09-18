@@ -11,7 +11,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal710&layout=compact&theme=gotham">
   </a>
   
-
+<p align="center">
+<a href="https://discord.com/users/781019093678424094">
+  <img height="80px" src="https://discord.c99.nl/widget/theme-1/800331322089537538.png">
+</a>
+</p>
 
 <!-- <img id="gstats" src=""> -->
 <!-- <img id="stats" src=""> -->
