@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="My stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal710&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=HypsterOP&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
