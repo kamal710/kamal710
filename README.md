@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Blue&theme=gotham&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=/kamal710&theme=gotham&hide_border=true">
   </a>
 
 <!-- <img id="gstats" src=""> -->
