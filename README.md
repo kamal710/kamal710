@@ -1,13 +1,8 @@
-<div> 
-<img id="gstats" src="https://github-readme-stats.vercel.app/api?username=kamal710&show_icons=true&theme=gotham">
-</div>
+<p align="center">
+  <a href="https://github.com/HypsterOP/Michiaki/blob/master/README.md">
+    <img src="https://github-readme-stats.vercel.app/api?username=kamal710&show_icons=true&theme=gotham">
+  </a>
+</p>
 
-<div>
+<!-- <img id="gstats" src=""> -->
 <img id="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-</div>
-
-
- 
-   
-   
-  
