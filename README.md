@@ -1,10 +1,12 @@
+<h1 align="center"> Blue </h1>
+
 <p align="center">
   <a href="Blue">
     <img src="https://github-readme-stats.vercel.app/api?username=kamal710&show_icons=true&theme=gotham">
   </a>
 </p>
 
-<h1 align="center"> Blue </h1>
+
 
 <p align="center">
   <a href="">
