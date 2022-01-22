@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h1 align="center"> Stats: </h1>
+<h1 align="center"> Blue </h1>
 
 <p align="center">
-  <a href="My stats">
+  <a href="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal710&layout=compact&theme=gotham">
   </a>
   
